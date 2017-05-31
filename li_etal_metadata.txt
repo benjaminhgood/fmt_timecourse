@@ -1,0 +1,431 @@
+run_accession	experiment_title	sample_name
+ERR1297502	Illumina HiSeq 2000 sequencing	FAT_006-22-0-0
+ERR1297459	Illumina HiSeq 2000 sequencing	FAT_006-22-0-0
+ERR1297480	Illumina HiSeq 2000 sequencing	FAT_006-22-0-0
+ERR1297542	Illumina HiSeq 2000 sequencing	FAT_006-22-0-0
+ERR1297781	Illumina HiSeq 2000 paired end sequencing	FAT_006-22-0-0
+ERR1297773	Illumina HiSeq 2000 paired end sequencing	FAT_006-22-0-0
+ERR1297797	Illumina HiSeq 2000 paired end sequencing	FAT_006-22-0-0
+ERR1297836	Illumina HiSeq 2000 paired end sequencing	FAT_006-22-0-0
+ERR1297535	Illumina HiSeq 2000 sequencing	FAT_006-22-14-0
+ERR1297466	Illumina HiSeq 2000 sequencing	FAT_006-22-14-0
+ERR1297568	Illumina HiSeq 2000 sequencing	FAT_006-22-14-0
+ERR1297524	Illumina HiSeq 2000 sequencing	FAT_006-22-14-0
+ERR1297791	Illumina HiSeq 2000 paired end sequencing	FAT_006-22-14-0
+ERR1297739	Illumina HiSeq 2000 paired end sequencing	FAT_006-22-14-0
+ERR1297644	Illumina HiSeq 2000 paired end sequencing	FAT_006-22-14-0
+ERR1297750	Illumina HiSeq 2000 paired end sequencing	FAT_006-22-14-0
+ERR1297599	Illumina HiSeq 2000 sequencing	FAT_006-22-2-0
+ERR1297477	Illumina HiSeq 2000 sequencing	FAT_006-22-2-0
+ERR1297550	Illumina HiSeq 2000 sequencing	FAT_006-22-2-0
+ERR1297489	Illumina HiSeq 2000 sequencing	FAT_006-22-2-0
+ERR1297760	Illumina HiSeq 2000 paired end sequencing	FAT_006-22-2-0
+ERR1297757	Illumina HiSeq 2000 paired end sequencing	FAT_006-22-2-0
+ERR1297780	Illumina HiSeq 2000 paired end sequencing	FAT_006-22-2-0
+ERR1297830	Illumina HiSeq 2000 paired end sequencing	FAT_006-22-2-0
+ERR1297544	Illumina HiSeq 2000 sequencing	FAT_006-22-42-0
+ERR1297476	Illumina HiSeq 2000 sequencing	FAT_006-22-42-0
+ERR1297521	Illumina HiSeq 2000 sequencing	FAT_006-22-42-0
+ERR1297575	Illumina HiSeq 2000 sequencing	FAT_006-22-42-0
+ERR1297710	Illumina HiSeq 2000 paired end sequencing	FAT_006-22-42-0
+ERR1297786	Illumina HiSeq 2000 paired end sequencing	FAT_006-22-42-0
+ERR1297796	Illumina HiSeq 2000 paired end sequencing	FAT_006-22-42-0
+ERR1297680	Illumina HiSeq 2000 paired end sequencing	FAT_006-22-42-0
+ERR1297633	Illumina HiSeq 2000 sequencing	FAT_006-22-84-0
+ERR1297595	Illumina HiSeq 2000 sequencing	FAT_006-22-84-0
+ERR1297603	Illumina HiSeq 2000 sequencing	FAT_006-22-84-0
+ERR1297519	Illumina HiSeq 2000 sequencing	FAT_006-22-84-0
+ERR1297761	Illumina HiSeq 2000 paired end sequencing	FAT_006-22-84-0
+ERR1297779	Illumina HiSeq 2000 paired end sequencing	FAT_006-22-84-0
+ERR1297764	Illumina HiSeq 2000 paired end sequencing	FAT_006-22-84-0
+ERR1297775	Illumina HiSeq 2000 paired end sequencing	FAT_006-22-84-0
+ERR1297517	Illumina HiSeq 2000 sequencing	FAT_008-22-0-0
+ERR1297446	Illumina HiSeq 2000 sequencing	FAT_008-22-0-0
+ERR1297570	Illumina HiSeq 2000 sequencing	FAT_008-22-0-0
+ERR1297612	Illumina HiSeq 2000 sequencing	FAT_008-22-0-0
+ERR1297662	Illumina HiSeq 2000 paired end sequencing	FAT_008-22-0-0
+ERR1297681	Illumina HiSeq 2000 paired end sequencing	FAT_008-22-0-0
+ERR1297645	Illumina HiSeq 2000 paired end sequencing	FAT_008-22-0-0
+ERR1297682	Illumina HiSeq 2000 paired end sequencing	FAT_008-22-0-0
+ERR1297436	Illumina HiSeq 2000 sequencing	FAT_008-22-14-0
+ERR1297562	Illumina HiSeq 2000 sequencing	FAT_008-22-14-0
+ERR1297602	Illumina HiSeq 2000 sequencing	FAT_008-22-14-0
+ERR1297429	Illumina HiSeq 2000 sequencing	FAT_008-22-14-0
+ERR1297768	Illumina HiSeq 2000 paired end sequencing	FAT_008-22-14-0
+ERR1297789	Illumina HiSeq 2000 paired end sequencing	FAT_008-22-14-0
+ERR1297705	Illumina HiSeq 2000 paired end sequencing	FAT_008-22-14-0
+ERR1297818	Illumina HiSeq 2000 paired end sequencing	FAT_008-22-14-0
+ERR1297458	Illumina HiSeq 2000 sequencing	FAT_008-22-2-0
+ERR1297631	Illumina HiSeq 2000 sequencing	FAT_008-22-2-0
+ERR1297434	Illumina HiSeq 2000 sequencing	FAT_008-22-2-0
+ERR1297607	Illumina HiSeq 2000 sequencing	FAT_008-22-2-0
+ERR1297724	Illumina HiSeq 2000 paired end sequencing	FAT_008-22-2-0
+ERR1297718	Illumina HiSeq 2000 paired end sequencing	FAT_008-22-2-0
+ERR1297690	Illumina HiSeq 2000 paired end sequencing	FAT_008-22-2-0
+ERR1297769	Illumina HiSeq 2000 paired end sequencing	FAT_008-22-2-0
+ERR1297435	Illumina HiSeq 2000 sequencing	FAT_008-22-42-0
+ERR1297624	Illumina HiSeq 2000 sequencing	FAT_008-22-42-0
+ERR1297503	Illumina HiSeq 2000 sequencing	FAT_008-22-42-0
+ERR1297516	Illumina HiSeq 2000 sequencing	FAT_008-22-42-0
+ERR1297831	Illumina HiSeq 2000 paired end sequencing	FAT_008-22-42-0
+ERR1297802	Illumina HiSeq 2000 paired end sequencing	FAT_008-22-42-0
+ERR1297827	Illumina HiSeq 2000 paired end sequencing	FAT_008-22-42-0
+ERR1297669	Illumina HiSeq 2000 paired end sequencing	FAT_008-22-42-0
+ERR1297483	Illumina HiSeq 2000 sequencing	FAT_008-22-84-0
+ERR1297626	Illumina HiSeq 2000 sequencing	FAT_008-22-84-0
+ERR1297449	Illumina HiSeq 2000 sequencing	FAT_008-22-84-0
+ERR1297546	Illumina HiSeq 2000 sequencing	FAT_008-22-84-0
+ERR1297673	Illumina HiSeq 2000 paired end sequencing	FAT_008-22-84-0
+ERR1297731	Illumina HiSeq 2000 paired end sequencing	FAT_008-22-84-0
+ERR1297814	Illumina HiSeq 2000 paired end sequencing	FAT_008-22-84-0
+ERR1297653	Illumina HiSeq 2000 paired end sequencing	FAT_008-22-84-0
+ERR1297592	Illumina HiSeq 2000 sequencing	FAT_010-22-0-0
+ERR1297629	Illumina HiSeq 2000 sequencing	FAT_010-22-0-0
+ERR1297601	Illumina HiSeq 2000 sequencing	FAT_010-22-0-0
+ERR1297526	Illumina HiSeq 2000 sequencing	FAT_010-22-0-0
+ERR1297715	Illumina HiSeq 2000 paired end sequencing	FAT_010-22-0-0
+ERR1297723	Illumina HiSeq 2000 paired end sequencing	FAT_010-22-0-0
+ERR1297753	Illumina HiSeq 2000 paired end sequencing	FAT_010-22-0-0
+ERR1297733	Illumina HiSeq 2000 paired end sequencing	FAT_010-22-0-0
+ERR1297610	Illumina HiSeq 2000 sequencing	FAT_010-22-14-0
+ERR1297496	Illumina HiSeq 2000 sequencing	FAT_010-22-14-0
+ERR1297582	Illumina HiSeq 2000 sequencing	FAT_010-22-14-0
+ERR1297580	Illumina HiSeq 2000 sequencing	FAT_010-22-14-0
+ERR1297640	Illumina HiSeq 2000 paired end sequencing	FAT_010-22-14-0
+ERR1297732	Illumina HiSeq 2000 paired end sequencing	FAT_010-22-14-0
+ERR1297747	Illumina HiSeq 2000 paired end sequencing	FAT_010-22-14-0
+ERR1297638	Illumina HiSeq 2000 paired end sequencing	FAT_010-22-14-0
+ERR1297460	Illumina HiSeq 2000 sequencing	FAT_010-22-2-0
+ERR1297424	Illumina HiSeq 2000 sequencing	FAT_010-22-2-0
+ERR1297538	Illumina HiSeq 2000 sequencing	FAT_010-22-2-0
+ERR1297447	Illumina HiSeq 2000 sequencing	FAT_010-22-2-0
+ERR1297697	Illumina HiSeq 2000 paired end sequencing	FAT_010-22-2-0
+ERR1297812	Illumina HiSeq 2000 paired end sequencing	FAT_010-22-2-0
+ERR1297696	Illumina HiSeq 2000 paired end sequencing	FAT_010-22-2-0
+ERR1297829	Illumina HiSeq 2000 paired end sequencing	FAT_010-22-2-0
+ERR1297456	Illumina HiSeq 2000 sequencing	FAT_010-22-42-0
+ERR1297442	Illumina HiSeq 2000 sequencing	FAT_010-22-42-0
+ERR1297533	Illumina HiSeq 2000 sequencing	FAT_010-22-42-0
+ERR1297557	Illumina HiSeq 2000 sequencing	FAT_010-22-42-0
+ERR1297766	Illumina HiSeq 2000 paired end sequencing	FAT_010-22-42-0
+ERR1297838	Illumina HiSeq 2000 paired end sequencing	FAT_010-22-42-0
+ERR1297745	Illumina HiSeq 2000 paired end sequencing	FAT_010-22-42-0
+ERR1297663	Illumina HiSeq 2000 paired end sequencing	FAT_010-22-42-0
+ERR1297571	Illumina HiSeq 2000 sequencing	FAT_010-22-84-0
+ERR1297552	Illumina HiSeq 2000 sequencing	FAT_010-22-84-0
+ERR1297495	Illumina HiSeq 2000 sequencing	FAT_010-22-84-0
+ERR1297432	Illumina HiSeq 2000 sequencing	FAT_010-22-84-0
+ERR1297652	Illumina HiSeq 2000 paired end sequencing	FAT_010-22-84-0
+ERR1297839	Illumina HiSeq 2000 paired end sequencing	FAT_010-22-84-0
+ERR1297702	Illumina HiSeq 2000 paired end sequencing	FAT_010-22-84-0
+ERR1297759	Illumina HiSeq 2000 paired end sequencing	FAT_010-22-84-0
+ERR1297497	Illumina HiSeq 2000 sequencing	FAT_012-22-0-0
+ERR1297523	Illumina HiSeq 2000 sequencing	FAT_012-22-0-0
+ERR1297501	Illumina HiSeq 2000 sequencing	FAT_012-22-0-0
+ERR1297591	Illumina HiSeq 2000 sequencing	FAT_012-22-0-0
+ERR1297772	Illumina HiSeq 2000 paired end sequencing	FAT_012-22-0-0
+ERR1297787	Illumina HiSeq 2000 paired end sequencing	FAT_012-22-0-0
+ERR1297672	Illumina HiSeq 2000 paired end sequencing	FAT_012-22-0-0
+ERR1297734	Illumina HiSeq 2000 paired end sequencing	FAT_012-22-0-0
+ERR1297606	Illumina HiSeq 2000 sequencing	FAT_012-22-14-0
+ERR1297561	Illumina HiSeq 2000 sequencing	FAT_012-22-14-0
+ERR1297579	Illumina HiSeq 2000 sequencing	FAT_012-22-14-0
+ERR1297481	Illumina HiSeq 2000 sequencing	FAT_012-22-14-0
+ERR1297670	Illumina HiSeq 2000 paired end sequencing	FAT_012-22-14-0
+ERR1297806	Illumina HiSeq 2000 paired end sequencing	FAT_012-22-14-0
+ERR1297744	Illumina HiSeq 2000 paired end sequencing	FAT_012-22-14-0
+ERR1297805	Illumina HiSeq 2000 paired end sequencing	FAT_012-22-14-0
+ERR1297558	Illumina HiSeq 2000 sequencing	FAT_012-22-2-0
+ERR1297465	Illumina HiSeq 2000 sequencing	FAT_012-22-2-0
+ERR1297484	Illumina HiSeq 2000 sequencing	FAT_012-22-2-0
+ERR1297541	Illumina HiSeq 2000 sequencing	FAT_012-22-2-0
+ERR1297650	Illumina HiSeq 2000 paired end sequencing	FAT_012-22-2-0
+ERR1297826	Illumina HiSeq 2000 paired end sequencing	FAT_012-22-2-0
+ERR1297804	Illumina HiSeq 2000 paired end sequencing	FAT_012-22-2-0
+ERR1297821	Illumina HiSeq 2000 paired end sequencing	FAT_012-22-2-0
+ERR1297457	Illumina HiSeq 2000 sequencing	FAT_012-22-42-0
+ERR1297491	Illumina HiSeq 2000 sequencing	FAT_012-22-42-0
+ERR1297621	Illumina HiSeq 2000 sequencing	FAT_012-22-42-0
+ERR1297742	Illumina HiSeq 2000 paired end sequencing	FAT_012-22-42-0
+ERR1297743	Illumina HiSeq 2000 paired end sequencing	FAT_012-22-42-0
+ERR1297689	Illumina HiSeq 2000 paired end sequencing	FAT_012-22-42-0
+ERR1297469	Illumina HiSeq 2000 sequencing	FAT_012-22-84-0
+ERR1297566	Illumina HiSeq 2000 sequencing	FAT_012-22-84-0
+ERR1297608	Illumina HiSeq 2000 sequencing	FAT_012-22-84-0
+ERR1297486	Illumina HiSeq 2000 sequencing	FAT_012-22-84-0
+ERR1297666	Illumina HiSeq 2000 paired end sequencing	FAT_012-22-84-0
+ERR1297799	Illumina HiSeq 2000 paired end sequencing	FAT_012-22-84-0
+ERR1297722	Illumina HiSeq 2000 paired end sequencing	FAT_012-22-84-0
+ERR1297688	Illumina HiSeq 2000 paired end sequencing	FAT_012-22-84-0
+ERR1297525	Illumina HiSeq 2000 sequencing	FAT_014-22-0-0
+ERR1297576	Illumina HiSeq 2000 sequencing	FAT_014-22-0-0
+ERR1297587	Illumina HiSeq 2000 sequencing	FAT_014-22-0-0
+ERR1297451	Illumina HiSeq 2000 sequencing	FAT_014-22-0-0
+ERR1297656	Illumina HiSeq 2000 paired end sequencing	FAT_014-22-0-0
+ERR1297675	Illumina HiSeq 2000 paired end sequencing	FAT_014-22-0-0
+ERR1297851	Illumina HiSeq 2000 paired end sequencing	FAT_014-22-0-0
+ERR1297811	Illumina HiSeq 2000 paired end sequencing	FAT_014-22-0-0
+ERR1297472	Illumina HiSeq 2000 sequencing	FAT_014-22-14-0
+ERR1297598	Illumina HiSeq 2000 sequencing	FAT_014-22-14-0
+ERR1297439	Illumina HiSeq 2000 sequencing	FAT_014-22-14-0
+ERR1297596	Illumina HiSeq 2000 sequencing	FAT_014-22-14-0
+ERR1297735	Illumina HiSeq 2000 paired end sequencing	FAT_014-22-14-0
+ERR1297849	Illumina HiSeq 2000 paired end sequencing	FAT_014-22-14-0
+ERR1297651	Illumina HiSeq 2000 paired end sequencing	FAT_014-22-14-0
+ERR1297684	Illumina HiSeq 2000 paired end sequencing	FAT_014-22-14-0
+ERR1297504	Illumina HiSeq 2000 sequencing	FAT_014-22-2-0
+ERR1297564	Illumina HiSeq 2000 sequencing	FAT_014-22-2-0
+ERR1297509	Illumina HiSeq 2000 sequencing	FAT_014-22-2-0
+ERR1297479	Illumina HiSeq 2000 sequencing	FAT_014-22-2-0
+ERR1297730	Illumina HiSeq 2000 paired end sequencing	FAT_014-22-2-0
+ERR1297748	Illumina HiSeq 2000 paired end sequencing	FAT_014-22-2-0
+ERR1297841	Illumina HiSeq 2000 paired end sequencing	FAT_014-22-2-0
+ERR1297783	Illumina HiSeq 2000 paired end sequencing	FAT_014-22-2-0
+ERR1297498	Illumina HiSeq 2000 sequencing	FAT_014-22-42-0
+ERR1297443	Illumina HiSeq 2000 sequencing	FAT_014-22-42-0
+ERR1297597	Illumina HiSeq 2000 sequencing	FAT_014-22-42-0
+ERR1297547	Illumina HiSeq 2000 sequencing	FAT_014-22-42-0
+ERR1297751	Illumina HiSeq 2000 paired end sequencing	FAT_014-22-42-0
+ERR1297716	Illumina HiSeq 2000 paired end sequencing	FAT_014-22-42-0
+ERR1297820	Illumina HiSeq 2000 paired end sequencing	FAT_014-22-42-0
+ERR1297792	Illumina HiSeq 2000 paired end sequencing	FAT_014-22-42-0
+ERR1297555	Illumina HiSeq 2000 sequencing	FAT_014-22-84-0
+ERR1297623	Illumina HiSeq 2000 sequencing	FAT_014-22-84-0
+ERR1297583	Illumina HiSeq 2000 sequencing	FAT_014-22-84-0
+ERR1297468	Illumina HiSeq 2000 sequencing	FAT_014-22-84-0
+ERR1297819	Illumina HiSeq 2000 paired end sequencing	FAT_014-22-84-0
+ERR1297758	Illumina HiSeq 2000 paired end sequencing	FAT_014-22-84-0
+ERR1297701	Illumina HiSeq 2000 paired end sequencing	FAT_014-22-84-0
+ERR1297719	Illumina HiSeq 2000 paired end sequencing	FAT_014-22-84-0
+ERR1297574	Illumina HiSeq 2000 sequencing	FAT_015-22-0-0
+ERR1297613	Illumina HiSeq 2000 sequencing	FAT_015-22-0-0
+ERR1297493	Illumina HiSeq 2000 sequencing	FAT_015-22-0-0
+ERR1297470	Illumina HiSeq 2000 sequencing	FAT_015-22-0-0
+ERR1297725	Illumina HiSeq 2000 paired end sequencing	FAT_015-22-0-0
+ERR1297756	Illumina HiSeq 2000 paired end sequencing	FAT_015-22-0-0
+ERR1297809	Illumina HiSeq 2000 paired end sequencing	FAT_015-22-0-0
+ERR1297691	Illumina HiSeq 2000 paired end sequencing	FAT_015-22-0-0
+ERR1297482	Illumina HiSeq 2000 sequencing	FAT_015-22-14-0
+ERR1297600	Illumina HiSeq 2000 sequencing	FAT_015-22-14-0
+ERR1297605	Illumina HiSeq 2000 sequencing	FAT_015-22-14-0
+ERR1297553	Illumina HiSeq 2000 sequencing	FAT_015-22-14-0
+ERR1297683	Illumina HiSeq 2000 paired end sequencing	FAT_015-22-14-0
+ERR1297828	Illumina HiSeq 2000 paired end sequencing	FAT_015-22-14-0
+ERR1297782	Illumina HiSeq 2000 paired end sequencing	FAT_015-22-14-0
+ERR1297714	Illumina HiSeq 2000 paired end sequencing	FAT_015-22-14-0
+ERR1297505	Illumina HiSeq 2000 sequencing	FAT_015-22-2-0
+ERR1297609	Illumina HiSeq 2000 sequencing	FAT_015-22-2-0
+ERR1297431	Illumina HiSeq 2000 sequencing	FAT_015-22-2-0
+ERR1297537	Illumina HiSeq 2000 sequencing	FAT_015-22-2-0
+ERR1297707	Illumina HiSeq 2000 paired end sequencing	FAT_015-22-2-0
+ERR1297709	Illumina HiSeq 2000 paired end sequencing	FAT_015-22-2-0
+ERR1297765	Illumina HiSeq 2000 paired end sequencing	FAT_015-22-2-0
+ERR1297658	Illumina HiSeq 2000 paired end sequencing	FAT_015-22-2-0
+ERR1297445	Illumina HiSeq 2000 sequencing	FAT_015-22-42-0
+ERR1297464	Illumina HiSeq 2000 sequencing	FAT_015-22-42-0
+ERR1297567	Illumina HiSeq 2000 sequencing	FAT_015-22-42-0
+ERR1297471	Illumina HiSeq 2000 sequencing	FAT_015-22-42-0
+ERR1297667	Illumina HiSeq 2000 paired end sequencing	FAT_015-22-42-0
+ERR1297771	Illumina HiSeq 2000 paired end sequencing	FAT_015-22-42-0
+ERR1297754	Illumina HiSeq 2000 paired end sequencing	FAT_015-22-42-0
+ERR1297729	Illumina HiSeq 2000 paired end sequencing	FAT_015-22-42-0
+ERR1297514	Illumina HiSeq 2000 sequencing	FAT_015-22-84-0
+ERR1297577	Illumina HiSeq 2000 sequencing	FAT_015-22-84-0
+ERR1297530	Illumina HiSeq 2000 sequencing	FAT_015-22-84-0
+ERR1297834	Illumina HiSeq 2000 paired end sequencing	FAT_015-22-84-0
+ERR1297677	Illumina HiSeq 2000 paired end sequencing	FAT_015-22-84-0
+ERR1297708	Illumina HiSeq 2000 paired end sequencing	FAT_015-22-84-0
+ERR1297545	Illumina HiSeq 2000 sequencing	FAT_017-22-0-0
+ERR1297441	Illumina HiSeq 2000 sequencing	FAT_017-22-0-0
+ERR1297454	Illumina HiSeq 2000 sequencing	FAT_017-22-0-0
+ERR1297618	Illumina HiSeq 2000 sequencing	FAT_017-22-0-0
+ERR1297807	Illumina HiSeq 2000 paired end sequencing	FAT_017-22-0-0
+ERR1297695	Illumina HiSeq 2000 paired end sequencing	FAT_017-22-0-0
+ERR1297646	Illumina HiSeq 2000 paired end sequencing	FAT_017-22-0-0
+ERR1297711	Illumina HiSeq 2000 paired end sequencing	FAT_017-22-0-0
+ERR1297594	Illumina HiSeq 2000 sequencing	FAT_017-22-14-0
+ERR1297559	Illumina HiSeq 2000 sequencing	FAT_017-22-14-0
+ERR1297488	Illumina HiSeq 2000 sequencing	FAT_017-22-14-0
+ERR1297560	Illumina HiSeq 2000 sequencing	FAT_017-22-14-0
+ERR1297837	Illumina HiSeq 2000 paired end sequencing	FAT_017-22-14-0
+ERR1297749	Illumina HiSeq 2000 paired end sequencing	FAT_017-22-14-0
+ERR1297668	Illumina HiSeq 2000 paired end sequencing	FAT_017-22-14-0
+ERR1297795	Illumina HiSeq 2000 paired end sequencing	FAT_017-22-14-0
+ERR1297474	Illumina HiSeq 2000 sequencing	FAT_017-22-2-0
+ERR1297438	Illumina HiSeq 2000 sequencing	FAT_017-22-2-0
+ERR1297478	Illumina HiSeq 2000 sequencing	FAT_017-22-2-0
+ERR1297467	Illumina HiSeq 2000 sequencing	FAT_017-22-2-0
+ERR1297641	Illumina HiSeq 2000 paired end sequencing	FAT_017-22-2-0
+ERR1297815	Illumina HiSeq 2000 paired end sequencing	FAT_017-22-2-0
+ERR1297778	Illumina HiSeq 2000 paired end sequencing	FAT_017-22-2-0
+ERR1297808	Illumina HiSeq 2000 paired end sequencing	FAT_017-22-2-0
+ERR1297507	Illumina HiSeq 2000 sequencing	FAT_017-22-42-0
+ERR1297617	Illumina HiSeq 2000 sequencing	FAT_017-22-42-0
+ERR1297548	Illumina HiSeq 2000 sequencing	FAT_017-22-42-0
+ERR1297494	Illumina HiSeq 2000 sequencing	FAT_017-22-42-0
+ERR1297717	Illumina HiSeq 2000 paired end sequencing	FAT_017-22-42-0
+ERR1297720	Illumina HiSeq 2000 paired end sequencing	FAT_017-22-42-0
+ERR1297817	Illumina HiSeq 2000 paired end sequencing	FAT_017-22-42-0
+ERR1297660	Illumina HiSeq 2000 paired end sequencing	FAT_017-22-42-0
+ERR1297531	Illumina HiSeq 2000 sequencing	FAT_017-22-84-0
+ERR1297455	Illumina HiSeq 2000 sequencing	FAT_017-22-84-0
+ERR1297532	Illumina HiSeq 2000 sequencing	FAT_017-22-84-0
+ERR1297622	Illumina HiSeq 2000 sequencing	FAT_017-22-84-0
+ERR1297704	Illumina HiSeq 2000 paired end sequencing	FAT_017-22-84-0
+ERR1297679	Illumina HiSeq 2000 paired end sequencing	FAT_017-22-84-0
+ERR1297816	Illumina HiSeq 2000 paired end sequencing	FAT_017-22-84-0
+ERR1297763	Illumina HiSeq 2000 paired end sequencing	FAT_017-22-84-0
+ERR1297585	Illumina HiSeq 2000 sequencing	FAT_020-22-0-0
+ERR1297515	Illumina HiSeq 2000 sequencing	FAT_020-22-0-0
+ERR1297437	Illumina HiSeq 2000 sequencing	FAT_020-22-0-0
+ERR1297636	Illumina HiSeq 2000 sequencing	FAT_020-22-0-0
+ERR1297737	Illumina HiSeq 2000 paired end sequencing	FAT_020-22-0-0
+ERR1297693	Illumina HiSeq 2000 paired end sequencing	FAT_020-22-0-0
+ERR1297694	Illumina HiSeq 2000 paired end sequencing	FAT_020-22-0-0
+ERR1297832	Illumina HiSeq 2000 paired end sequencing	FAT_020-22-0-0
+ERR1297425	Illumina HiSeq 2000 sequencing	FAT_020-22-14-0
+ERR1297510	Illumina HiSeq 2000 sequencing	FAT_020-22-14-0
+ERR1297569	Illumina HiSeq 2000 sequencing	FAT_020-22-14-0
+ERR1297513	Illumina HiSeq 2000 sequencing	FAT_020-22-14-0
+ERR1297661	Illumina HiSeq 2000 paired end sequencing	FAT_020-22-14-0
+ERR1297699	Illumina HiSeq 2000 paired end sequencing	FAT_020-22-14-0
+ERR1297798	Illumina HiSeq 2000 paired end sequencing	FAT_020-22-14-0
+ERR1297671	Illumina HiSeq 2000 paired end sequencing	FAT_020-22-14-0
+ERR1297463	Illumina HiSeq 2000 sequencing	FAT_020-22-2-0
+ERR1297551	Illumina HiSeq 2000 sequencing	FAT_020-22-2-0
+ERR1297572	Illumina HiSeq 2000 sequencing	FAT_020-22-2-0
+ERR1297584	Illumina HiSeq 2000 sequencing	FAT_020-22-2-0
+ERR1297655	Illumina HiSeq 2000 paired end sequencing	FAT_020-22-2-0
+ERR1297746	Illumina HiSeq 2000 paired end sequencing	FAT_020-22-2-0
+ERR1297721	Illumina HiSeq 2000 paired end sequencing	FAT_020-22-2-0
+ERR1297728	Illumina HiSeq 2000 paired end sequencing	FAT_020-22-2-0
+ERR1297578	Illumina HiSeq 2000 sequencing	FAT_020-22-42-0
+ERR1297512	Illumina HiSeq 2000 sequencing	FAT_020-22-42-0
+ERR1297473	Illumina HiSeq 2000 sequencing	FAT_020-22-42-0
+ERR1297485	Illumina HiSeq 2000 sequencing	FAT_020-22-42-0
+ERR1297706	Illumina HiSeq 2000 paired end sequencing	FAT_020-22-42-0
+ERR1297762	Illumina HiSeq 2000 paired end sequencing	FAT_020-22-42-0
+ERR1297712	Illumina HiSeq 2000 paired end sequencing	FAT_020-22-42-0
+ERR1297692	Illumina HiSeq 2000 paired end sequencing	FAT_020-22-42-0
+ERR1297604	Illumina HiSeq 2000 sequencing	FAT_020-22-84-0
+ERR1297462	Illumina HiSeq 2000 sequencing	FAT_020-22-84-0
+ERR1297453	Illumina HiSeq 2000 sequencing	FAT_020-22-84-0
+ERR1297590	Illumina HiSeq 2000 sequencing	FAT_020-22-84-0
+ERR1297657	Illumina HiSeq 2000 paired end sequencing	FAT_020-22-84-0
+ERR1297845	Illumina HiSeq 2000 paired end sequencing	FAT_020-22-84-0
+ERR1297770	Illumina HiSeq 2000 paired end sequencing	FAT_020-22-84-0
+ERR1297726	Illumina HiSeq 2000 paired end sequencing	FAT_020-22-84-0
+ERR1297487	Illumina HiSeq 2000 sequencing	FAT_023-22-0-0
+ERR1297540	Illumina HiSeq 2000 sequencing	FAT_023-22-0-0
+ERR1297615	Illumina HiSeq 2000 sequencing	FAT_023-22-0-0
+ERR1297625	Illumina HiSeq 2000 sequencing	FAT_023-22-0-0
+ERR1297793	Illumina HiSeq 2000 paired end sequencing	FAT_023-22-0-0
+ERR1297825	Illumina HiSeq 2000 paired end sequencing	FAT_023-22-0-0
+ERR1297842	Illumina HiSeq 2000 paired end sequencing	FAT_023-22-0-0
+ERR1297664	Illumina HiSeq 2000 paired end sequencing	FAT_023-22-0-0
+ERR1297619	Illumina HiSeq 2000 sequencing	FAT_023-22-14-0
+ERR1297452	Illumina HiSeq 2000 sequencing	FAT_023-22-14-0
+ERR1297634	Illumina HiSeq 2000 sequencing	FAT_023-22-14-0
+ERR1297499	Illumina HiSeq 2000 sequencing	FAT_023-22-14-0
+ERR1297794	Illumina HiSeq 2000 paired end sequencing	FAT_023-22-14-0
+ERR1297703	Illumina HiSeq 2000 paired end sequencing	FAT_023-22-14-0
+ERR1297740	Illumina HiSeq 2000 paired end sequencing	FAT_023-22-14-0
+ERR1297654	Illumina HiSeq 2000 paired end sequencing	FAT_023-22-14-0
+ERR1297522	Illumina HiSeq 2000 sequencing	FAT_023-22-2-0
+ERR1297616	Illumina HiSeq 2000 sequencing	FAT_023-22-2-0
+ERR1297556	Illumina HiSeq 2000 sequencing	FAT_023-22-2-0
+ERR1297528	Illumina HiSeq 2000 sequencing	FAT_023-22-2-0
+ERR1297840	Illumina HiSeq 2000 paired end sequencing	FAT_023-22-2-0
+ERR1297713	Illumina HiSeq 2000 paired end sequencing	FAT_023-22-2-0
+ERR1297648	Illumina HiSeq 2000 paired end sequencing	FAT_023-22-2-0
+ERR1297776	Illumina HiSeq 2000 paired end sequencing	FAT_023-22-2-0
+ERR1297563	Illumina HiSeq 2000 sequencing	FAT_023-22-42-0
+ERR1297534	Illumina HiSeq 2000 sequencing	FAT_023-22-42-0
+ERR1297444	Illumina HiSeq 2000 sequencing	FAT_023-22-42-0
+ERR1297593	Illumina HiSeq 2000 sequencing	FAT_023-22-42-0
+ERR1297687	Illumina HiSeq 2000 paired end sequencing	FAT_023-22-42-0
+ERR1297810	Illumina HiSeq 2000 paired end sequencing	FAT_023-22-42-0
+ERR1297700	Illumina HiSeq 2000 paired end sequencing	FAT_023-22-42-0
+ERR1297767	Illumina HiSeq 2000 paired end sequencing	FAT_023-22-42-0
+ERR1297635	Illumina HiSeq 2000 sequencing	FAT_023-22-84-0
+ERR1297440	Illumina HiSeq 2000 sequencing	FAT_023-22-84-0
+ERR1297543	Illumina HiSeq 2000 sequencing	FAT_023-22-84-0
+ERR1297450	Illumina HiSeq 2000 sequencing	FAT_023-22-84-0
+ERR1297790	Illumina HiSeq 2000 paired end sequencing	FAT_023-22-84-0
+ERR1297752	Illumina HiSeq 2000 paired end sequencing	FAT_023-22-84-0
+ERR1297665	Illumina HiSeq 2000 paired end sequencing	FAT_023-22-84-0
+ERR1297698	Illumina HiSeq 2000 paired end sequencing	FAT_023-22-84-0
+ERR1297586	Illumina HiSeq 2000 sequencing	FAT_024-22-0-0
+ERR1297461	Illumina HiSeq 2000 sequencing	FAT_024-22-0-0
+ERR1297475	Illumina HiSeq 2000 sequencing	FAT_024-22-0-0
+ERR1297529	Illumina HiSeq 2000 sequencing	FAT_024-22-0-0
+ERR1297639	Illumina HiSeq 2000 paired end sequencing	FAT_024-22-0-0
+ERR1297741	Illumina HiSeq 2000 paired end sequencing	FAT_024-22-0-0
+ERR1297813	Illumina HiSeq 2000 paired end sequencing	FAT_024-22-0-0
+ERR1297736	Illumina HiSeq 2000 paired end sequencing	FAT_024-22-0-0
+ERR1297490	Illumina HiSeq 2000 sequencing	FAT_024-22-14-0
+ERR1297614	Illumina HiSeq 2000 sequencing	FAT_024-22-14-0
+ERR1297632	Illumina HiSeq 2000 sequencing	FAT_024-22-14-0
+ERR1297518	Illumina HiSeq 2000 sequencing	FAT_024-22-14-0
+ERR1297803	Illumina HiSeq 2000 paired end sequencing	FAT_024-22-14-0
+ERR1297844	Illumina HiSeq 2000 paired end sequencing	FAT_024-22-14-0
+ERR1297823	Illumina HiSeq 2000 paired end sequencing	FAT_024-22-14-0
+ERR1297852	Illumina HiSeq 2000 paired end sequencing	FAT_024-22-14-0
+ERR1297433	Illumina HiSeq 2000 sequencing	FAT_024-22-2-0
+ERR1297511	Illumina HiSeq 2000 sequencing	FAT_024-22-2-0
+ERR1297581	Illumina HiSeq 2000 sequencing	FAT_024-22-2-0
+ERR1297848	Illumina HiSeq 2000 paired end sequencing	FAT_024-22-2-0
+ERR1297833	Illumina HiSeq 2000 paired end sequencing	FAT_024-22-2-0
+ERR1297784	Illumina HiSeq 2000 paired end sequencing	FAT_024-22-2-0
+ERR1297565	Illumina HiSeq 2000 sequencing	FAT_024-22-42-0
+ERR1297549	Illumina HiSeq 2000 sequencing	FAT_024-22-42-0
+ERR1297430	Illumina HiSeq 2000 sequencing	FAT_024-22-42-0
+ERR1297448	Illumina HiSeq 2000 sequencing	FAT_024-22-42-0
+ERR1297785	Illumina HiSeq 2000 paired end sequencing	FAT_024-22-42-0
+ERR1297642	Illumina HiSeq 2000 paired end sequencing	FAT_024-22-42-0
+ERR1297824	Illumina HiSeq 2000 paired end sequencing	FAT_024-22-42-0
+ERR1297835	Illumina HiSeq 2000 paired end sequencing	FAT_024-22-42-0
+ERR1297539	Illumina HiSeq 2000 sequencing	FAT_024-22-84-0
+ERR1297492	Illumina HiSeq 2000 sequencing	FAT_024-22-84-0
+ERR1297536	Illumina HiSeq 2000 sequencing	FAT_024-22-84-0
+ERR1297643	Illumina HiSeq 2000 paired end sequencing	FAT_024-22-84-0
+ERR1297847	Illumina HiSeq 2000 paired end sequencing	FAT_024-22-84-0
+ERR1297738	Illumina HiSeq 2000 paired end sequencing	FAT_024-22-84-0
+ERR1297506	Illumina HiSeq 2000 sequencing	FAT_DON_11-22-0-4
+ERR1297573	Illumina HiSeq 2000 sequencing	FAT_DON_11-22-0-4
+ERR1297508	Illumina HiSeq 2000 sequencing	FAT_DON_11-22-0-4
+ERR1297822	Illumina HiSeq 2000 paired end sequencing	FAT_DON_11-22-0-4
+ERR1297777	Illumina HiSeq 2000 paired end sequencing	FAT_DON_11-22-0-4
+ERR1297659	Illumina HiSeq 2000 paired end sequencing	FAT_DON_11-22-0-4
+ERR1297589	Illumina HiSeq 2000 sequencing	FAT_DON_11-22-0-5
+ERR1297630	Illumina HiSeq 2000 sequencing	FAT_DON_11-22-0-5
+ERR1297611	Illumina HiSeq 2000 sequencing	FAT_DON_11-22-0-5
+ERR1297427	Illumina HiSeq 2000 sequencing	FAT_DON_11-22-0-5
+ERR1297800	Illumina HiSeq 2000 paired end sequencing	FAT_DON_11-22-0-5
+ERR1297843	Illumina HiSeq 2000 paired end sequencing	FAT_DON_11-22-0-5
+ERR1297674	Illumina HiSeq 2000 paired end sequencing	FAT_DON_11-22-0-5
+ERR1297686	Illumina HiSeq 2000 paired end sequencing	FAT_DON_11-22-0-5
+ERR1297426	Illumina HiSeq 2000 sequencing	FAT_DON_11-22-0-6
+ERR1297527	Illumina HiSeq 2000 sequencing	FAT_DON_11-22-0-6
+ERR1297500	Illumina HiSeq 2000 sequencing	FAT_DON_11-22-0-6
+ERR1297627	Illumina HiSeq 2000 sequencing	FAT_DON_11-22-0-6
+ERR1297755	Illumina HiSeq 2000 paired end sequencing	FAT_DON_11-22-0-6
+ERR1297801	Illumina HiSeq 2000 paired end sequencing	FAT_DON_11-22-0-6
+ERR1297774	Illumina HiSeq 2000 paired end sequencing	FAT_DON_11-22-0-6
+ERR1297676	Illumina HiSeq 2000 paired end sequencing	FAT_DON_11-22-0-6
+ERR1297520	Illumina HiSeq 2000 sequencing	FAT_DON_19-22-0-0
+ERR1297588	Illumina HiSeq 2000 sequencing	FAT_DON_19-22-0-0
+ERR1297554	Illumina HiSeq 2000 sequencing	FAT_DON_19-22-0-0
+ERR1297423	Illumina HiSeq 2000 sequencing	FAT_DON_19-22-0-0
+ERR1297850	Illumina HiSeq 2000 paired end sequencing	FAT_DON_19-22-0-0
+ERR1297649	Illumina HiSeq 2000 paired end sequencing	FAT_DON_19-22-0-0
+ERR1297647	Illumina HiSeq 2000 paired end sequencing	FAT_DON_19-22-0-0
+ERR1297788	Illumina HiSeq 2000 paired end sequencing	FAT_DON_19-22-0-0
+ERR1297620	Illumina HiSeq 2000 sequencing	FAT_DON_8-22-0-0
+ERR1297428	Illumina HiSeq 2000 sequencing	FAT_DON_8-22-0-0
+ERR1297628	Illumina HiSeq 2000 sequencing	FAT_DON_8-22-0-0
+ERR1297637	Illumina HiSeq 2000 sequencing	FAT_DON_8-22-0-0
+ERR1297846	Illumina HiSeq 2000 paired end sequencing	FAT_DON_8-22-0-0
+ERR1297678	Illumina HiSeq 2000 paired end sequencing	FAT_DON_8-22-0-0
+ERR1297727	Illumina HiSeq 2000 paired end sequencing	FAT_DON_8-22-0-0
+ERR1297685	Illumina HiSeq 2000 paired end sequencing	FAT_DON_8-22-0-0
